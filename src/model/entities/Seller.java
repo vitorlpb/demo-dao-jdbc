@@ -99,5 +99,7 @@ public class Seller implements Serializable {
 	}
 	
 	
-	
+	public void teste() {
+		
+	}
 }
